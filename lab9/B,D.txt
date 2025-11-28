@@ -1,0 +1,11 @@
+b) Y înseamnă câți clienți au cumpărat efectiv produsul.
+Dacă Y este mai mare, rezultatul sugerează că magazinul a avut mai mulți clienți în total.
+De aceea, distribuția pentru n se mută spre valori mai mari atunci când Y crește.
+θ este probabilitatea ca un client să cumpere produsul.
+Când θ este mare (de exemplu 0.5), este mai ușor să explicăm un anumit Y folosind un număr n mai mic de clienți.
+Când θ este mică (de exemplu 0.2), avem nevoie de un număr mai mare de clienți pentru a ajunge la același Y.
+
+d) Distribuția pentru n ne spune câți clienți au fost în ziua observată, pe baza lui Y.
+Distribuția pentru Y* ne arată câți cumpărători ne așteptăm într-o zi viitoare.
+Prima se referă la ziua trecută, a doua la o zi nouă.
+A doua este mai largă, pentru că include și incertitudinea despre n, și variația naturală a lui Y*.
